@@ -1,0 +1,6 @@
+,n_methods
+hit_at_1_pct,3
+impact_capture_at_1_pct,3
+impact_capture_at_3_pct,3
+ndcg_at_3,3
+recommendation_rate_pct,3
